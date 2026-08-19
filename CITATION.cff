@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the Article."
+title: "SES-PTSD-npjMHR: analysis code for Sound Exposure During Sleep in individuals with PTSD"
+authors:
+  - family-names: Sakaguchi
+    given-names: Masanori
+    orcid: "https://orcid.org/0000-0002-7211-9452"
+license: MIT
+repository-code: "https://github.com/masanorisakaguchi/SES-PTSD-npjMHR"
